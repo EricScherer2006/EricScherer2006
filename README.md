@@ -7,7 +7,9 @@ Ich heiße Eric Scherer und bin Student im Fach Software-Engineering. Meine Leid
 ## Über mich
 
 - **Studium:** Software-Engineering, 2. Semester an [Universität-Duisburg-Essen]  
-- **Projekte:** Gym Tracker (React)  
+- **Projekte:**  
+  - **Gym Tracker** – Eine React-basierte Web-App zum Verfolgen und Verwalten von Trainingseinheiten mit wöchentlicher Übersicht und Eingabemöglichkeit für Gewichte und Übungen.  
+    [Live Demo auf Netlify](https://dein-netlify-link.netlify.app)   
 - **Skills:** JavaScript, React, Python, Docker, Git
 - **FrameWorks** React, Springboot, Tailwind
 - **Ziele:**  
