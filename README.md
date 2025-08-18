@@ -10,8 +10,8 @@ Ich heiße Eric Scherer und bin Student im Fach Software-Engineering. Meine Leid
 - **Projekte:**  
   - **Gym Tracker** – Eine React-basierte Web-App zum Verfolgen und Verwalten von Trainingseinheiten mit wöchentlicher Übersicht und Eingabemöglichkeit für Gewichte und Übungen.  
     [Live Demo auf Netlify](https://eric-gym-tracker.netlify.app/)   
-- **Skills:** JavaScript, React, Python, Docker, Git
-- **FrameWorks** React, Springboot, Tailwind
+- **Skills:** JavaScript, React, Python, Git
+- **FrameWorks** React, FastApi, Tailwind
 - **Ziele:**  
   - Werkstudentenstellen und Praktika in Deutschland  
   - Vertiefung meiner Kenntnisse in DevOps und Fullstack-Entwicklung  
@@ -27,11 +27,13 @@ Auf meinem GitHub findest du eine Auswahl meiner aktuellen und vergangenen Proje
 
 ## Kontakt & CV
 
-Wenn du mit mir in Kontakt treten möchtest, erreichst du mich unter:  
-📧 [scherereric9@gmail.com](mailto:scherereric9@gmail.com)
+## Kontakt
 
-Mein englischer Lebenslauf (CV) steht hier zum Download bereit:  
-[Englischer CV](placholder)
+Wenn du mit mir in Kontakt treten möchtest, erreichst du mich über [LinkedIn](https://www.linkedin.com/in/eric-scherer-a43b1837a)  
+oder direkt per E-Mail: [dein.email@example.com](mailto:scherereric9@gmail.com)
+
+Mein Lebenslauf (CV) steht hier zum Download bereit:  
+[Lebenslauf](placholder)
 
 ---
 
