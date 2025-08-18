@@ -30,7 +30,7 @@ Auf meinem GitHub findest du eine Auswahl meiner aktuellen und vergangenen Proje
 ## Kontakt
 
 Wenn du mit mir in Kontakt treten möchtest, erreichst du mich über [LinkedIn](https://www.linkedin.com/in/eric-scherer-a43b1837a)  
-oder direkt per E-Mail: [dein.email@example.com](mailto:scherereric9@gmail.com)
+oder direkt per E-Mail: [scherereric9@gmail.com](mailto:scherereric9@gmail.com)
 
 Mein Lebenslauf (CV) steht hier zum Download bereit:  
 [Lebenslauf](placholder)
