@@ -11,7 +11,7 @@ Ich heiße Eric Scherer und bin Student im Fach Software-Engineering. Meine Leid
   - **Gym Tracker** – Eine React-basierte Web-App zum Verfolgen und Verwalten von Trainingseinheiten mit wöchentlicher Übersicht und Eingabemöglichkeit für Gewichte und Übungen.  
     [Live Demo auf Netlify](https://eric-gym-tracker.netlify.app/)
     
-  -**Network Traffic Monitor** – Ein Netzwerk-Sniffer, der IP-Pakete in Echtzeit erkennt und nach Typ (TCP, UDP, ICMP etc.) kategorisiert.
+  - **Network Traffic Monitor** – Ein Netzwerk-Sniffer, der IP-Pakete in Echtzeit erkennt und nach Typ (TCP, UDP, ICMP etc.) kategorisiert.
     Zeigt die Paketinformationen zur Analyse an. Demo verwendet simulierten Netzwerkverkehr, um die Privatsphäre zu schützen.
     [Zum Repository](https://github.com/EricScherer2006/network-traffic_monitor.git)
 - **Skills:** JavaScript, React, Python, Git
