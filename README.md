@@ -8,8 +8,8 @@ I'm Eric Scherer, a Software Engineering student with a focus on backend develop
 
 - **Studies:** B.Sc. Software Engineering, 4th semester at Universität Duisburg-Essen
 - **Work experience:** Working Student (Software Engineering | Test Automation) — built an end-to-end Cypress/TypeScript test suite and an Azure DevOps CI/CD pipeline for industrial control software.
-- **Skills:** Java, TypeScript, Bash, Python (basics)
-- **DevOps & Cloud:** Terraform, Docker, GitLab CI/CD, Azure DevOps, AWS, Git
+- **Languages:** Java, TypeScript, Python (basics)
+- **DevOps & Cloud:** Terraform, Docker, GitLab CI/CD, Azure DevOps, AWS, Bash Scripting, Git
 - **Frameworks:** Spring Boot, Node.js, Angular, PrimeNG
 - **Testing & QA:** Cypress, JUnit, Mockito, Vitest, E2E testing
 - **Goals:**
@@ -21,11 +21,11 @@ I'm Eric Scherer, a Software Engineering student with a focus on backend develop
 
 ## Featured project: DevSecOps Portfolio
 
-My personal site ([www.ericscherer.com](https://www.ericscherer.com)) doubles as a hands-on DevSecOps showcase. The frontend itself is a simple Angular SPA — the real project is the infrastructure and pipeline behind it:
+My personal site ([www.ericscherer.com](https://www.ericscherer.com)) doubles as a hands-on DevSecOps showcase. The frontend itself is an Angular SPA — the real project is the infrastructure and pipeline behind it:
 
-- **IaC:** AWS hosting (S3, CloudFront, ACM, Route 53) fully provisioned via Terraform
+- **IaC:** AWS frontend hosting provisioned entirely via Terraform: private S3 bucket, CloudFront with Origin Access Control, ACM, and Route 53.
 - **CI/CD:** Modular GitLab pipeline with OIDC authentication (no long-lived AWS keys) for automated deploy
-- **Security:** Least privilage IAM roels, SAST, secret detection, Test automation and Trivy dependency scans gating every merge request
+- **Security:** Least privilage IAM roles, SAST, secret detection, Test automation and Trivy dependency scans gating every merge request
 - **Containerization:** Multi-stage Docker builds for frontend and backend, validated in CI via Docker-in-Docker/Buildx
 - **Observability:** CloudFront access logs, CloudTrail, and a 5xx alarm as a first-cut baseline
 - **Documentation:** Every architectural decision is recorded as an ADR
